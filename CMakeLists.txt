@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
-project(xrLuabind)
+project(luabind)
 
 option(LUABIND_BUILD_TESTING "Build luabind testing" OFF)
 option(LUABIND_BUILD_SHARED "Build luabind as a shared library?" ON)
